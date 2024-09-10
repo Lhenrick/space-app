@@ -30,7 +30,7 @@
   {
     "titulo": "Estrela Pistola",
     "fonte": "Alura Space",
-    "path": "/imagens/galeria/foto-5.png",
+    "path": "imagens/galeria/foto-5.png",
     "id": "5",
     "tagId": 1
   },
