@@ -38,7 +38,7 @@ const ModalZoom = ({ foto, aoFechar, aoAlternarFavorito }) => {
                     <Imagem foto={foto} expandida={true} aoAlternarFavorito={aoAlternarFavorito} />
                     <form method="dialog">
                         <BotaoIcone formMethod="dialog">
-                            <img src="/icones/fechar.png" alt="Icone de fechar" />
+                            <img src="icones/fechar.png" alt="Icone de fechar" />
                         </BotaoIcone>
                     </form>
                 </DialogEstilizado>
